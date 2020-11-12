@@ -2,7 +2,9 @@ Hi there!😎
 
 I'm a Fullstack Web Developer with +10 y of experience in IT industry
 
-Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/) Dutch startup company developing Online 3D solutions for Architector and real estate brokers.
+Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/) - Dutch startup company developing Online 3D solutions for Architectors and real estate brokers.
+
+[Check out 3D Viewer](https://summerwood.xuver.com/ba034c00-b500-4331-bf56-88aaf83e9d55)
 
 My favourite stack: Next.js, GraphQL, Typescript, Jest, Node.js, PostgreSQL, Socket.io, Docker, Kubernetes, Travis CL
 
