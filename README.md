@@ -21,6 +21,8 @@ I am on social media:
 
 [Instagram](https://www.instagram.com/ekrijel/)
 
+[Game Instagram](https://www.instagram.com/fogcradle/)
+
 [DeviantArt](https://www.deviantart.com/ekrijel)
 
 
