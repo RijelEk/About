@@ -2,7 +2,7 @@ Hi there!😎
 
 I'm a Fullstack Web Developer 
 
-Currently working for: **Xuver B.V.**  [See the Website](https://xuver.com/)
+Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/)
 
 My favourite stack: Next.js, GraphQL, Typescript, Jest, Node.js, PostgreSQL, Socket.io, Docker, Kubernetes, Travis CL
 
