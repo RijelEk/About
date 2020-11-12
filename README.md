@@ -13,5 +13,11 @@ In my spare time I work on desktop games. Currently working on #Emerald Shop# (2
 Other free time occupations:
 Speculative fiction writing, music composing and hiking
 
+I am on social media:
+
+Dev Twitter: https://twitter.com/DevRijel
+Personal Twitter: https://twitter.com/RijelEk
+Instagram: https://www.instagram.com/ekrijel/
+DeviantArt: https://www.deviantart.com/ekrijel
 
 
