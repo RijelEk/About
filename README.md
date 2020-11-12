@@ -1,8 +1,8 @@
 Hi there!😎
 
-I'm a Fullstack Web Developer 
+I'm a Fullstack Web Developer with +10 y of experience in IT industry
 
-Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/)
+Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/) Dutch startup company developing Online 3D solutions for Architector and real estate brokers.
 
 My favourite stack: Next.js, GraphQL, Typescript, Jest, Node.js, PostgreSQL, Socket.io, Docker, Kubernetes, Travis CL
 
@@ -24,5 +24,7 @@ I am on social media:
 [Game Instagram](https://www.instagram.com/fogcradle/)
 
 [DeviantArt](https://www.deviantart.com/ekrijel)
+
+[Linkedin](https://www.linkedin.com/in/jaros%C5%82aw-grishunin/)
 
 
