@@ -1,6 +1,6 @@
 Hi there!😎
 
-I'm a Fullstack Web Developer with +10 y of experience in IT industry
+I'm a Fullstack Web Developer
 
 Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/) - Dutch startup company developing Online 3D solutions for Architectors and real estate brokers.
 
