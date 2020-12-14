@@ -28,7 +28,7 @@ Speculative fiction writing, music composing and hiking
 
 [*Protect your Next.js app with security headers*](https://oslavdev.medium.com/protect-your-next-js-app-with-security-headers-7f70f4a95d63)
 
-I am on social media:
+# 📱 On Social Media
 
 [Development Twitter](https://twitter.com/DevRijel)
 
