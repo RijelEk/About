@@ -23,7 +23,7 @@ Other free time occupations:
 Speculative fiction writing, music composing and hiking
 
 # 📚 Publications
-***
+
 [*Load animated GLTF models in Next.js app with Three.js*](https://oslavdev.medium.com/load-animated-gltf-models-in-next-js-app-with-three-js-8cf0a5d99e10)
 
 [*Protect your Next.js app with security headers*](https://oslavdev.medium.com/protect-your-next-js-app-with-security-headers-7f70f4a95d63)
