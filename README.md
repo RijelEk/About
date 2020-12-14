@@ -13,11 +13,11 @@ Languages: **JavaScript**, **Python**, **C#**
 
 In my spare time I work on desktop games. Currently working on 
 
-🔮 **Shardworld** (2D Story rich platformer) with Unity Engine [Initial release date: 2021]
+🔮 **Shardworld** (2D Story rich platformer) with Unity Engine **[Initial release date: first quorter of 2021]**
 
-⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine [Initial release date: 2021-2022]
+⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine **[Initial release date: late 2021-2022]**
 
-⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) with Unreal Engine [Initial release date: 2022-???]
+⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) with Unreal Engine **[Initial release date: 2022-???]**
 
 Other free time occupations:
 Speculative fiction writing, music composing and hiking
