@@ -20,6 +20,15 @@ Tools: React/Next, Redux, GraphQL, TypeScript, Jest, Docker, Travis.CL, Styled C
 
 ⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) with Unreal Engine **[Release date: 2022-???]**
 
+Follow my game dev journey:
+<div style="display:flex; flex-direction:row">
+<a href="https://twitter.com/DevRijel" target="_blank">
+ <img style="margin-right:30px;" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-32x32.png" alt="twitter"/>
+ </a>
+ <a href="https://www.instagram.com/fogcradle/" target="_blank">
+ <img  src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-32x32.png" alt="instagram"/>
+ </a>
+</div>
 
 # 📚 Publications
 
@@ -29,8 +38,6 @@ Tools: React/Next, Redux, GraphQL, TypeScript, Jest, Docker, Travis.CL, Styled C
 
 
 # 📱 On Social Media
-
-[Development Twitter](https://twitter.com/DevRijel)
 
 [Personal Twitter](https://twitter.com/RijelEk)
 
