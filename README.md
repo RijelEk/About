@@ -20,6 +20,8 @@ Tools: React/Next, Redux, GraphQL, TypeScript, Service Workers, Jest, Docker, Tr
 
 ⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) with Unreal Engine **[Release date: 2022-???]**
 
+🖥️  **The Quantum Terminals** (Multiplayer Browser 2D puzzle game) with React & Node **[Release date: 2018]**
+
 Follow my game dev journey:
 <div style="display:flex; flex-direction:row">
 <a href="https://twitter.com/DevRijel" target="_blank">
