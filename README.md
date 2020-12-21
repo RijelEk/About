@@ -8,7 +8,7 @@ Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/)
 
 Languages: **JavaScript**, **Python**, **C#**
 
-Tools: React/Next, Redux, GraphQL, TypeScript, Jest, Docker, Travis.CL, Styled Components, Node/Express, PostgreSQL, REST API, MongoDB, Pythong/Flusk, esLint, TypeORM, ORM, Three.js and more.
+Tools: React/Next, Redux, GraphQL, TypeScript, Service Workers, Jest, Docker, Travis.CL, Styled Components, MaterialUI, Node/Express, PostgreSQL, REST API, MongoDB, Pythong/Flusk, esLint, JWT, Redis, TypeORM, ORM, Three.js, Lerna, Yarn,  and more.
 
 # 🎮 Games
 
