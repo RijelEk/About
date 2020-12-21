@@ -6,10 +6,9 @@ Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/)
 
 [Check out 3D Viewer](https://summerwood.xuver.com/ba034c00-b500-4331-bf56-88aaf83e9d55)
 
-My favourite stack: **Next.js, GraphQL, Typescript, Jest, Node.js, PostgreSQL, Socket.io, Docker, Kubernetes, Travis CL
-Additional: Three.js, GSAP, Flusk**
-
 Languages: **JavaScript**, **Python**, **C#**
+
+Tools: React/Next, Redux, GraphQL, TypeScript, Jest, Docker, Travis.CL, Styled Components, Node/Express, PostgreSQL, REST API, MongoDB, Pythong/Flusk, esLint, TypeORM, ORM, Three.js and more.
 
 # 🎮 Games
 
@@ -28,8 +27,6 @@ Languages: **JavaScript**, **Python**, **C#**
 
 [*Protect your Next.js app with security headers*](https://oslavdev.medium.com/protect-your-next-js-app-with-security-headers-7f70f4a95d63)
 
-Other free time occupations:
-Speculative fiction writing, music composing and hiking
 
 # 📱 On Social Media
 
