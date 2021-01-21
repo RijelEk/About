@@ -6,9 +6,7 @@ Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/)
 
 [Check out 3D Viewer](https://summerwood.xuver.com/ba034c00-b500-4331-bf56-88aaf83e9d55)
 
-Languages: **JavaScript**, **Python**, **C#**
-
-Tools: React/Next, Redux, GraphQL, TypeScript, Service Workers, Jest, Docker, Travis.CL, Styled Components, MaterialUI, Node/Express, PostgreSQL, REST API, MongoDB, Python/Flusk, esLint, JWT, Redis, TypeORM, ORM, Three.js, Lerna, Yarn, Unity Engine, Photoshop, Reaper  and more.
+**JavaScript**, **Python**, **C#**
 
 # 🎮 Games
 
