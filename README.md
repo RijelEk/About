@@ -2,11 +2,8 @@ Hi there!😎
 
 I'm a Fullstack Web Developer
 
-Currently working at: **Xuver B.V.**  [See the Website](https://xuver.com/) 
 
-[Check out 3D Viewer](https://summerwood.xuver.com/ba034c00-b500-4331-bf56-88aaf83e9d55)
-
-**JavaScript**, **Python**, **C#**
+**JavaScript** | **Python** | **C#**
 
 # 🎮 Games
 
