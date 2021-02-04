@@ -3,9 +3,14 @@ Hi there!😎
 I'm a Fullstack Web Developer
 
 
-**JavaScript** | **Python** | **C#**
+| **JavaScript** | **Python** | **C#** |
 
-| React | Redux | TypeScript | GSAP | GraphQL | Node.js | Express | Django | PostgreSQL | MySQL | MongoDB | Redis | Jest | Cypress | Docker | GitLab CL | Travis CL 
+
+| React | Redux | Next.js | TypeScript | GSAP | GraphQL | Node.js | Express | Django | PostgreSQL | MySQL | MongoDB | Redis | Jest | Cypress |
+
+
+| Docker | GitLab CL | Travis CL |
+
 
 | Three.js | Cannon.js | Unity Engine |
 
