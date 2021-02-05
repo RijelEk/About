@@ -7,9 +7,11 @@ I'm a Fullstack Web Developer
 | **JavaScript** | **Python** | **C#** |
 
 
-| React | Redux | Next.js | TypeScript | GSAP | GraphQL |
+| React | Redux | Next.js | TypeScript | GSAP | GraphQL | Jest | Cypress | lint | 
 
-| Node.js | Express | Django | PostgreSQL | MySQL | MongoDB | Redis | Jest | Cypress |
+|SCSS | Material UI | Styled Components | Canvas |
+
+| Node.js | Express | Django | PostgreSQL | MySQL | MongoDB | Redis |
 
 | Docker | GitLab CL | Travis CL |
 
