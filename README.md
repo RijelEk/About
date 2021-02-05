@@ -45,6 +45,8 @@ Follow my game dev journey:
 
 # 📱 On Social Media
 
+[Code Pen](https://codepen.io/rijelek/pens/public)
+
 [Personal Twitter](https://twitter.com/RijelEk)
 
 [Instagram](https://www.instagram.com/ekrijel/)
