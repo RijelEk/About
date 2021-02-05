@@ -2,17 +2,34 @@ Hi there!😎
 
 I'm a Fullstack Web Developer
 
+# 🤹🏻 Skills
 
 | **JavaScript** | **Python** | **C#** |
 
 
-| React | Redux | Next.js | TypeScript | GSAP | GraphQL | Node.js | Express | Django | PostgreSQL | MySQL | MongoDB | Redis | Jest | Cypress |
+| React | Redux | Next.js | TypeScript | GSAP | GraphQL |
 
+| Node.js | Express | Django | PostgreSQL | MySQL | MongoDB | Redis | Jest | Cypress |
 
 | Docker | GitLab CL | Travis CL |
 
-
 | Three.js | Cannon.js | Unity Engine |
+
+
+# 🖥️ Projects
+
+## Xuver viewer
+
+Online multiplayer 3D BIM viewer with material and lighting editor.
+
+![Xuver Viewer](assets/xuver.gif?raw=true "Xuver Viewer")
+
+## Memo The Quantum Terminals
+
+Procedurally generated 2D puzzle game.
+
+![Memo](assets/memo.gif?raw=true "Memo")
+
 
 # 🎮 Games
 
@@ -21,6 +38,8 @@ I'm a Fullstack Web Developer
 🔮 **Shardworld** (2D Story rich platformer) with Unity Engine **[Release date:  2021]**
 
 ⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine **[Release date: late 2021-2022]**
+
+![Emerald Shop](assets/ES.jpg?raw=true "Emerald Shop")
 
 ⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) with Unreal Engine **[Release date: 2022-???]**
 
@@ -46,6 +65,8 @@ Follow my game dev journey:
 # 📱 On Social Media
 
 [Code Pen](https://codepen.io/rijelek/pens/public)
+
+[Tumblr](https://www.tumblr.com/blog/ekrijelgames)
 
 [Personal Twitter](https://twitter.com/RijelEk)
 
