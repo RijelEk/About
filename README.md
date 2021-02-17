@@ -30,6 +30,8 @@ Online multiplayer 3D BIM viewer with material and lighting editor.
 
 Procedurally generated 2D puzzle game.
 
+[OPEN REPO](https://github.com/RijelEk/quantum-terminals-remake)
+
 ![Memo](assets/memo.gif?raw=true "Memo")
 
 
