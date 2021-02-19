@@ -13,7 +13,7 @@ I'm a Fullstack Web Developer
 
 | Node.js | Express | Django | PostgreSQL | MySQL | MongoDB | Redis |
 
-| Docker | GitLab CL | Travis CL |
+| Docker | GitLab CL | Travis CL | Terraform | RabbitMQ | AWS |
 
 | Three.js | Cannon.js | Unity Engine |
 
