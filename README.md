@@ -1,6 +1,7 @@
 Hi there!😎
 
-I'm a Fullstack Web Developer
+I'm a Fullstack Web Developer. 
+Cooking the best react apps in the village spiced with node.js on the back end.
 
 # 🤹🏻 Skills
 
