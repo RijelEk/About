@@ -7,13 +7,15 @@ I'm a Fullstack Web Developer
 | **JavaScript** | **Python** | **C#** |
 
 
-| React | Redux | Next.js | TypeScript | GSAP | GraphQL | Jest | Cypress | 
+| React | Next.js | TypeScript | GSAP | Jest | Cypress | 
+
+| Redux | Redux-Saga | Redux - ORM | Redux Forms | REST API |  GraphQL |
 
 | SCSS | Material UI | Styled Components | Canvas |
 
 | Node.js | Express | Django | PostgreSQL | MongoDB | Redis |
 
-| Docker | GitLab CL | Travis CL | RabbitMQ | AWS |
+| Docker | GitLab CL | Team City | RabbitMQ | AWS |
 
 | Three.js | Cannon.js | Unity Engine |
 
@@ -41,7 +43,7 @@ Procedurally generated 2D puzzle game.
 
  Currently working on 
 
-🔮 **Shardworld** (2D Story rich platformer) with Unity Engine **[Release date:  2021]**
+🔮 **Shardworld** (2D Story rich platformer) with Unity Engine **[Release date:  2022]**
 
 ⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine **[Release date: late 2021-2022]**
 
