@@ -91,4 +91,11 @@ Follow my game dev journey:
 
 [SOUNDCLOUD](https://soundcloud.com/oslawtichie)
 
+# Short stories
 
+[Wordpress](https://oslavtichie.wordpress.com/)
+
+[Devianart](https://www.deviantart.com/ekrijel)
+
+# Buy me a coffee for no reason
+[Ko-Fi](https://ko-fi.com/oslavtichie)
