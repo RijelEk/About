@@ -98,4 +98,4 @@ Follow my game dev journey:
 [Devianart](https://www.deviantart.com/ekrijel)
 
 # Buy me a coffee for no reason
-[Ko-Fi](https://ko-fi.com/oslavtichie)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2N0KZ)
