@@ -3,23 +3,6 @@ Hi there!😎
 I'm a Fullstack Web Developer. 
 Cooking the best react apps in the village spiced with node.js on the back end.
 
-# 🤹🏻 Skills
-
-| **JavaScript** | **Python** | **C#** |
-
-
-| React | Next.js | TypeScript | GSAP | Jest | Cypress | 
-
-| Redux | Redux-Saga | Redux - ORM | Redux Forms | REST API |  GraphQL |
-
-| SCSS | Material UI | Styled Components | Canvas |
-
-| Node.js | Express | Django | PostgreSQL | MongoDB | Redis |
-
-| Docker | GitLab CL | Team City | RabbitMQ | AWS |
-
-| Three.js | Cannon.js | Unity Engine |
-
 
 # 🖥️ Projects
 
@@ -42,15 +25,15 @@ Procedurally generated 2D puzzle game.
 
 # 🎮 Games
 
- Currently working on 
+Occasionally working on 
 
-🔮 **Shardworld** (2D Story rich platformer) with Unity Engine **[Release date:  2022]**
+🔮 **Shardworld** (2D Story rich platformer) with Unity Engine 
 
-⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine **[Release date: late 2021-2022]**
+⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine 
 
 ![Emerald Shop](assets/ES.jpg?raw=true "Emerald Shop")
 
-⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) with Unreal Engine **[Release date: 2022-???]**
+⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) 
 
 🖥️  **The Quantum Terminals** (Multiplayer Browser 2D puzzle game) with React & Node **[Release date: 2018]**
 
