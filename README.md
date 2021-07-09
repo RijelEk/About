@@ -6,13 +6,6 @@ Cooking the best react apps in the village spiced with node.js on the back end.
 
 # 🖥️ Projects
 
-## Xuver viewer
-
-Online multiplayer 3D BIM viewer with material and lighting editor.
-
-![Xuver Viewer](assets/xuver.gif?raw=true "Xuver Viewer")
-
-[Live Demo](https://viewer.xuver.com/92359c94-a13d-420d-8e1f-e285b58f571a)
 
 ## Memo The Quantum Terminals
 
