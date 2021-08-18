@@ -11,7 +11,8 @@ Cooking the best react apps in the village spiced with node.js on the back end.
 
 Procedurally generated 2D puzzle game.
 
-[OPEN REPO](https://github.com/RijelEk/quantum-terminals-remake)
+[OPEN REPO CLIENT](https://github.com/oslavdev/memo-the-quantum-terminals-client)
+[OPEN REPO SERVER](https://github.com/oslavdev/memo-the-quantum-terminals-server)
 
 ![Memo](assets/memo.gif?raw=true "Memo")
 
