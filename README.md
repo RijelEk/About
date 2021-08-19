@@ -60,19 +60,11 @@ Follow my game dev journey:
 
 [Game Instagram](https://www.instagram.com/fogcradle/)
 
-[DeviantArt](https://www.deviantart.com/ekrijel)
-
 [Linkedin](https://www.linkedin.com/in/jaros%C5%82aw-grishunin/)
 
 # Music
 
 [SOUNDCLOUD](https://soundcloud.com/oslawtichie)
-
-# Short stories
-
-[Wordpress](https://oslavtichie.wordpress.com/)
-
-[Devianart](https://www.deviantart.com/ekrijel)
 
 # Buy me a coffee for no reason
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2N0KZ)
