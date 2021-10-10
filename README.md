@@ -6,6 +6,7 @@
 Procedurally generated 2D puzzle game.
 
 [OPEN REPO CLIENT](https://github.com/oslavdev/memo-the-quantum-terminals-client)
+
 [OPEN REPO SERVER](https://github.com/oslavdev/memo-the-quantum-terminals-server)
 
 ![Memo](assets/memo.gif?raw=true "Memo")
@@ -15,13 +16,13 @@ Procedurally generated 2D puzzle game.
 
 Occasionally working on 
 
-🔮 **Shardworld** (2D Story rich platformer) with Unity Engine 
+🔮 **Shardworld** (2D Story rich platformer) with Unity Engine (paused)
 
-⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine 
+⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine (paused)
 
 ![Emerald Shop](assets/ES.jpg?raw=true "Emerald Shop")
 
-⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) 
+⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) (paused)
 
 🖥️  **The Quantum Terminals** (Multiplayer Browser 2D puzzle game) with React & Node **[Release date: 2018]**
 
