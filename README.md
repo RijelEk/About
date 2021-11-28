@@ -7,7 +7,7 @@ Procedurally generated 2D puzzle game.
 
 [OPEN REPO CLIENT](https://github.com/oslavdev/memo-the-quantum-terminals-client)
 
-[OPEN REPO SERVER](https://github.com/oslavdev/memo-the-quantum-terminals-server)
+[OPEN REPO SERVER](https://github.com/oslavdev/memo-the-quantum-terminals-server) (temporary unavailable)
 
 ![Memo](assets/memo.gif?raw=true "Memo")
 
