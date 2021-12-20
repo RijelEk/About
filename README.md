@@ -38,6 +38,8 @@ Follow my game dev journey:
 
 # 📚 Publications
 
+[*Third person controller in Three.js*](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
+
 [*Load animated GLTF models in Next.js app with Three.js*](https://oslavdev.medium.com/load-animated-gltf-models-in-next-js-app-with-three-js-8cf0a5d99e10)
 
 [*Protect your Next.js app with security headers*](https://oslavdev.medium.com/protect-your-next-js-app-with-security-headers-7f70f4a95d63)
@@ -55,11 +57,6 @@ Follow my game dev journey:
 
 [Game Instagram](https://www.instagram.com/fogcradle/)
 
-[Linkedin](https://www.linkedin.com/in/jaros%C5%82aw-grishunin/)
-
-# Music
-
-[SOUNDCLOUD](https://soundcloud.com/oslawtichie)
 
 # Buy me a coffee for no reason
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2N0KZ)
