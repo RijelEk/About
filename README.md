@@ -57,7 +57,7 @@ Follow my game dev journey:
 
 [Game Instagram](https://www.instagram.com/fogcradle/)
 
-# Comics Beaurigul Noneness 
+# Comics Beautiful Noneness 
 
 https://www.instagram.com/beautiful_noneness/
 
