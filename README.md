@@ -57,6 +57,10 @@ Follow my game dev journey:
 
 [Game Instagram](https://www.instagram.com/fogcradle/)
 
+# Comics Beaurigul Noneness 
+
+https://www.instagram.com/beautiful_noneness/
+
 
 # Buy me a coffee for no reason
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2N0KZ)
