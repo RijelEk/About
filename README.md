@@ -7,7 +7,7 @@ Procedurally generated 2D puzzle game.
 
 [OPEN REPO CLIENT](https://github.com/oslavdev/memo-the-quantum-terminals-client)
 
-[OPEN REPO SERVER](https://github.com/oslavdev/memo-the-quantum-terminals-server) (temporary unavailable)
+[OPEN REPO SERVER](https://github.com/oslavdev/memo-the-quantum-terminals-server)
 
 ![Memo](assets/memo.gif?raw=true "Memo")
 
@@ -56,6 +56,10 @@ Follow my game dev journey:
 [Instagram](https://www.instagram.com/ekrijel/)
 
 [Game Instagram](https://www.instagram.com/fogcradle/)
+
+# Comics Beautiful Noneness 
+
+https://www.instagram.com/beautiful_noneness/
 
 
 # Buy me a coffee for no reason
