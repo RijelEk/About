@@ -3,20 +3,27 @@
 
 ## Three.js experiments
 
-Galaxy
+---
+
+### Galaxy
 
 ![Galaxy](assets/space.gif?raw=true "Galaxy")
 
-[REPO](https://github.com/oslavdev/flying-through-space) 
+[REPO](https://github.com/oslavdev/flying-through-space) | 
 [Live](https://flying-through-space.vercel.app/) 
 
-Thid person controller
+### Thid person controller
 
 ![Galaxy](assets/third.gif?raw=true "Galaxy")
 
-[Repo](https://github.com/oslavdev/webgl-third-person-controller)
-[Live](https://webgl-third-person-controller.vercel.app/)
+[Repo](https://github.com/oslavdev/webgl-third-person-controller) | 
+[Live](https://webgl-third-person-controller.vercel.app/) | 
 [Article](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
+
+
+# 🎮 Games
+
+Occasionally working on 
 
 ## Memo The Quantum Terminals
 
@@ -28,10 +35,6 @@ Procedurally generated 2D puzzle game.
 
 ![Memo](assets/memo.gif?raw=true "Memo")
 
-
-# 🎮 Games
-
-Occasionally working on 
 
 🔮 **Shardworld** (2D Story rich platformer) with Unity Engine (paused)
 
