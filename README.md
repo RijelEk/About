@@ -1,6 +1,23 @@
 # 🖥️ Projects
 
 
+## Three.js experiments
+
+Galaxy
+
+![Galaxy](assets/space.gif?raw=true "Galaxy")
+
+[REPO](https://github.com/oslavdev/flying-through-space) 
+[Live](https://flying-through-space.vercel.app/) 
+
+Thid person controller
+
+![Galaxy](assets/third.gif?raw=true "Galaxy")
+
+[Repo](https://github.com/oslavdev/webgl-third-person-controller)
+[Live](https://webgl-third-person-controller.vercel.app/)
+[Article](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
+
 ## Memo The Quantum Terminals
 
 Procedurally generated 2D puzzle game.
