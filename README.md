@@ -1,86 +1,106 @@
-# 🖥️ Projects
+
+I am
+
+- Coding with React/Next, Node, Javascript/TypeScript, GraphQL and other fancy tech in fashion 
+- Learning Rust
+- Exploring possibilities of WebGL 
+- Not finishing games on Unity with C#
 
 
-## Three.js experiments
+## WebGL experiments
 
----
 
-### Galaxy
+<div style='width:100%; display:inline-block;'>
+<div style="width:250px">
 
 ![Galaxy](assets/space.gif?raw=true "Galaxy")
 
-[REPO](https://github.com/oslavdev/flying-through-space) | 
+</div>
+<div style="width:250px">
+A simple spinning galaxy made with particle sytem with a mesmorizing piano nocurne by Chopin.
+</div>
+</div>
+
+[Repo](https://github.com/oslavdev/flying-through-space) | 
 [Live](https://flying-through-space.vercel.app/) 
 
-### Thid person controller
+<div style='width:100%; display:inline-block;'>
+<div style="width:250px">
 
-![Galaxy](assets/third.gif?raw=true "Galaxy")
+
+![Third](assets/third.gif?raw=true "Third")
+
+</div>
+<div style="width:250px">
+A third person controller with modern camera. 
+</div>
+</div>
 
 [Repo](https://github.com/oslavdev/webgl-third-person-controller) | 
 [Live](https://webgl-third-person-controller.vercel.app/) | 
 [Article](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
 
 
-# 🎮 Games
+## Games
 
-Occasionally working on 
+Masterfully avoiding working on :
 
-## Memo The Quantum Terminals
+
+**Memo The Quantum Terminals**
 
 Procedurally generated 2D puzzle game.
 
-[OPEN REPO CLIENT](https://github.com/oslavdev/memo-the-quantum-terminals-client)
-
-[OPEN REPO SERVER](https://github.com/oslavdev/memo-the-quantum-terminals-server)
+<div style='width:100%; display:inline-block;'>
+<div style="width:250px">
 
 ![Memo](assets/memo.gif?raw=true "Memo")
 
+</div>
+</div>
+
+[Client](https://github.com/oslavdev/memo-the-quantum-terminals-client)
+|
+[Server](https://github.com/oslavdev/memo-the-quantum-terminals-server)
 
 🔮 **Shardworld** (2D Story rich platformer) with Unity Engine (paused)
 
 ⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine (paused)
 
+<div style='width:100%; display:inline-block;'>
+<div style="width:250px">
+
+
 ![Emerald Shop](assets/ES.jpg?raw=true "Emerald Shop")
 
-⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) (paused)
-
-🖥️  **The Quantum Terminals** (Multiplayer Browser 2D puzzle game) with React & Node **[Release date: 2018]**
-
-Follow my game dev journey:
-<div style="display:flex; flex-direction:row">
-<a href="https://twitter.com/DevRijel" target="_blank">
- <img style="margin-right:30px;" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-32x32.png" alt="twitter"/>
- </a>
- <a href="https://www.instagram.com/fogcradle/" target="_blank">
- <img  src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-32x32.png" alt="instagram"/>
- </a>
+</div>
 </div>
 
-# 📚 Publications
+⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) (in porgress kinda)
 
-[*Third person controller in Three.js*](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
+### 📚 Publications
 
-[*Load animated GLTF models in Next.js app with Three.js*](https://oslavdev.medium.com/load-animated-gltf-models-in-next-js-app-with-three-js-8cf0a5d99e10)
+- [*Third person controller in Three.js*](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
 
-[*Protect your Next.js app with security headers*](https://oslavdev.medium.com/protect-your-next-js-app-with-security-headers-7f70f4a95d63)
+- [*Load animated GLTF models in Next.js app with Three.js*](https://oslavdev.medium.com/load-animated-gltf-models-in-next-js-app-with-three-js-8cf0a5d99e10)
+
+- [*Protect your Next.js app with security headers*](https://oslavdev.medium.com/protect-your-next-js-app-with-security-headers-7f70f4a95d63)
 
 
-# 📱 On Social Media
+### 📱 On Social Media
 
-[Code Pen](https://codepen.io/rijelek/pens/public)
+- [Twitter](https://twitter.com/oslavdev)
 
-[Tumblr](https://www.tumblr.com/blog/ekrijelgames)
+- [Tumblr](https://www.tumblr.com/blog/ekrijelgames)
 
-[Personal Twitter](https://twitter.com/RijelEk)
+- [Instagram](https://www.instagram.com/fogcradle/)
 
-[Instagram](https://www.instagram.com/ekrijel/)
+- [Code Pen](https://codepen.io/rijelek/pens/public)
 
-[Game Instagram](https://www.instagram.com/fogcradle/)
-
-# Comics Beautiful Noneness 
+### Comics Beautiful Noneness 
 
 https://www.instagram.com/beautiful_noneness/
 
 
-# Buy me a coffee for no reason
+### Buy me a coffee for no reason
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2N0KZ)
