@@ -1,44 +1,22 @@
 
 I am
 
-- Coding with React/Next, Node, Javascript/TypeScript, GraphQL and other fancy tech in fashion 
+- Programming with React/Next, Node, Javascript/TypeScript, GraphQL and other fancy tech in fashion 
 - Learning Rust
 - Exploring possibilities of WebGL 
-- Not finishing games on Unity with C#
+- Never finishing games on Unity
 
 
-## WebGL experiments
+## Personal projects and experiments
 
+- [R3F + Rapier + Node] - Multiplayer game mechanics with server side physics (...in progress)
 
-<div style='width:100%; display:inline-block;'>
-<div style="width:250px">
+- [THREE.JS + Cannon] A helicopter controller with physics [Repo](https://github.com/oslavdev/helicopter-with-physics) | [Live Demo](https://helicopter-with-physics.vercel.app/)
 
-![Galaxy](assets/space.gif?raw=true "Galaxy")
+- [THREE.JS] A third person controller with modern camera. [Repo](https://github.com/oslavdev/webgl-third-person-controller) | [Live Demo](https://webgl-third-person-controller.vercel.app/) | [Article](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
 
-</div>
-<div style="width:250px">
-A simple spinning galaxy made with particle sytem with a mesmorizing piano nocurne by Chopin.
-</div>
-</div>
+- [THREE.JS] A simple spinning galaxy made with particle sytem with a mesmorizing piano nocurne by Chopin. [Repo](https://github.com/oslavdev/flying-through-space) | [Live Demo](https://flying-through-space.vercel.app/) 
 
-[Repo](https://github.com/oslavdev/flying-through-space) | 
-[Live](https://flying-through-space.vercel.app/) 
-
-<div style='width:100%; display:inline-block;'>
-<div style="width:250px">
-
-
-![Third](assets/third.gif?raw=true "Third")
-
-</div>
-<div style="width:250px">
-A third person controller with modern camera. 
-</div>
-</div>
-
-[Repo](https://github.com/oslavdev/webgl-third-person-controller) | 
-[Live](https://webgl-third-person-controller.vercel.app/) | 
-[Article](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
 
 
 ## Games
@@ -48,7 +26,7 @@ Masterfully avoiding working on :
 
 **Memo The Quantum Terminals**
 
-Procedurally generated 2D puzzle game.
+Procedurally generated 2D memory puzzle game. (Currently rebuilding)
 
 <div style='width:100%; display:inline-block;'>
 <div style="width:250px">
@@ -75,7 +53,7 @@ Procedurally generated 2D puzzle game.
 </div>
 </div>
 
-⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) (in porgress kinda)
+⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) (paused)
 
 ### 📚 Publications
 
@@ -100,7 +78,3 @@ Procedurally generated 2D puzzle game.
 
 https://www.instagram.com/beautiful_noneness/
 
-
-### Buy me a coffee for no reason
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2N0KZ)
