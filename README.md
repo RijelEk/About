@@ -9,7 +9,7 @@ I am
 
 ## Personal projects and experiments
 
-- [R3F + Rapier + Node] - Multiplayer game mechanics with server side physics (...in progress)
+- [R3F + Rapier + Node] - Multiplayer game mechanics with server side physics [Repo](https://github.com/oslavdev/multiplayer-game-ball) (...in progress)
 
 - [THREE.JS + Cannon] A helicopter controller with physics [Repo](https://github.com/oslavdev/helicopter-with-physics) | [Live Demo](https://helicopter-with-physics.vercel.app/)
 
