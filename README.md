@@ -1,7 +1,7 @@
 
 I am
 
-- Programming with React/Next, Node, Javascript/TypeScript, GraphQL and other fancy tech in fashion 
+- Programming with React/Remix/Next, Node, Javascript/TypeScript, GraphQL and other fancy tech in fashion 
 - Learning Rust & Swift
 - Exploring possibilities of WebGL 
 - Never finishing games on Unity
