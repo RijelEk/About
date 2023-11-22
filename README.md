@@ -2,8 +2,8 @@
 I am
 
 - Programming with React/Remix/Next, Node, Javascript/TypeScript, GraphQL and other fancy tech in fashion 
-- Learning Rust & Swift
-- Exploring possibilities of WebGL 
+- Learning Rust, Swift
+- Exploring possibilities of WebGL with Three.js, Rapier and GLSL
 - Never finishing games on Unity
 
 
@@ -73,8 +73,4 @@ Procedurally generated 2D memory puzzle game. (Currently rebuilding)
 - [Instagram](https://www.instagram.com/fogcradle/)
 
 - [Code Pen](https://codepen.io/rijelek/pens/public)
-
-### Comics Beautiful Noneness 
-
-https://www.instagram.com/beautiful_noneness/
 
