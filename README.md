@@ -2,14 +2,15 @@
 I am
 
 - Programming with React/Remix/Next, Node, Javascript/TypeScript, GraphQL and other fancy tech in fashion 
-- Learning Rust, Swift
-- Exploring possibilities of WebGL with Three.js, Rapier and GLSL
-- Never finishing games on Unity
+- Occasionally enjoying Rust
+- Configuring and reconfiguring whatever you can configure (webpack, github actions, circle, razzle, give me more)
+- Exploring WebGL with Three.js, Rapier, GLSL and hope one day to build something meaningful with it
+- Never finishing games on Unity, your wallet is safe
 
 
 ## Personal projects and experiments
 
-- [R3F + Rapier + Node] - Multiplayer game mechanics with server side physics [Repo](https://github.com/oslavdev/multiplayer-game-ball) (...in progress)
+- [R3F + Rapier + Node] - Multiplayer game mechanics with server side physics [Repo](https://github.com/oslavdev/multiplayer-game-ball) (...in progress, long forgotten)
 
 - [THREE.JS + Cannon] A helicopter controller with physics [Repo](https://github.com/oslavdev/helicopter-with-physics) | [Live Demo](https://helicopter-with-physics.vercel.app/)
 
@@ -26,7 +27,7 @@ Masterfully avoiding working on :
 
 **Memo The Quantum Terminals**
 
-Procedurally generated 2D memory puzzle game. (Currently rebuilding)
+Procedurally generated 2D memory puzzle game. (Currently rebuilding, or not.)
 
 <div style='width:100%; display:inline-block;'>
 <div style="width:250px">
@@ -40,9 +41,9 @@ Procedurally generated 2D memory puzzle game. (Currently rebuilding)
 |
 [Server](https://github.com/oslavdev/memo-the-quantum-terminals-server)
 
-🔮 **Shardworld** (2D Story rich platformer) with Unity Engine (paused)
+🔮 **Shardworld** (2D Story rich platformer) with Unity Engine (paused, or rather cancelled)
 
-⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine (paused)
+⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine (paused, or rather cancelled, I am just burned out, bro)
 
 <div style='width:100%; display:inline-block;'>
 <div style="width:250px">
@@ -53,7 +54,7 @@ Procedurally generated 2D memory puzzle game. (Currently rebuilding)
 </div>
 </div>
 
-⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) (paused)
+⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) (paused, or, well you got it)
 
 ### 📚 Publications
 
