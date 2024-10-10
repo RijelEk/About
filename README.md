@@ -1,11 +1,11 @@
 
 I am
 
-- Programming with React/Remix/Next, Node, Javascript/TypeScript, GraphQL and other fancy tech in fashion 
+- Programming in Javascript/TypeScript with React/Remix/Next, Node, GraphQL and other fancy tech in fashion 
 - Occasionally enjoying Rust
-- Configuring and reconfiguring whatever you can configure (webpack, github actions, circle, razzle, give me more)
+- Configuring and reconfiguring whatever one can configure (webpack, github actions, circle, razzle, give me more)
 - Writing Node.js servers with PostgreSQL purely for enjoyment, fullstack is underpaid
-- Exploring WebGL with Three.js, Rapier, GLSL and hope one day to build something meaningful with it
+- Exploring WebGL with Three.js, Rapier, GLSL
 - Never finishing games on Unity, your wallet is safe
 
 
