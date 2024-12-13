@@ -66,13 +66,5 @@ Procedurally generated 2D memory puzzle game. (Currently rebuilding, or not.)
 - [*Protect your Next.js app with security headers*](https://oslavdev.medium.com/protect-your-next-js-app-with-security-headers-7f70f4a95d63)
 
 
-### 📱 On Social Media
 
-- [Twitter](https://twitter.com/oslavdev)
-
-- [Tumblr](https://www.tumblr.com/blog/ekrijelgames)
-
-- [Instagram](https://www.instagram.com/fogcradle/)
-
-- [Code Pen](https://codepen.io/rijelek/pens/public)
 
