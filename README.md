@@ -49,9 +49,6 @@ Procedurally generated 2D memory puzzle game. (Currently rebuilding, or not.)
 <div style='width:100%; display:inline-block;'>
 <div style="width:250px">
 
-
-![Emerald Shop](assets/ES.jpg?raw=true "Emerald Shop")
-
 </div>
 </div>
 
@@ -63,7 +60,6 @@ Procedurally generated 2D memory puzzle game. (Currently rebuilding, or not.)
 
 - [*Load animated GLTF models in Next.js app with Three.js*](https://oslavdev.medium.com/load-animated-gltf-models-in-next-js-app-with-three-js-8cf0a5d99e10)
 
-- [*Protect your Next.js app with security headers*](https://oslavdev.medium.com/protect-your-next-js-app-with-security-headers-7f70f4a95d63)
 
 
 
