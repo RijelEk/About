@@ -10,8 +10,9 @@ I am
 - Exploring WebGL with Three.js, Rapier, GLSL (this hard)
 - Never finishing games on Unity, your wallet is safe
 
-  
+Real capture of me at work: 
 
+```
                              /\
                             /  \
                            |    |
@@ -32,7 +33,7 @@ I am
  ( -   .00.   - _
 (    .'  _ )     )
 '-  ()_.\,\,   -
-
+```
 
 
 ## Abandonded Personal projects and unfinished experiments
