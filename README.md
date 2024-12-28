@@ -3,21 +3,47 @@ I am
 
 - Programming in Javascript/TypeScript with React/Remix/Next, Node, GraphQL and other fancy tech in fashion 
 - Occasionally enjoying Rust
-- Configuring and reconfiguring whatever one can configure (webpack, github actions, circle, razzle, give me more)
+- Configuring and reconfiguring whatever one can configure (webpack, vite, github actions, circle, razzle, give me more)
+- Having fun by improving quality of life
+- So lazy, that sometimes I spend the whole day writing a script to automate things
 - Writing Node.js servers with PostgreSQL purely for enjoyment, fullstack is underpaid
-- Exploring WebGL with Three.js, Rapier, GLSL
+- Exploring WebGL with Three.js, Rapier, GLSL (this hard)
 - Never finishing games on Unity, your wallet is safe
 
+  
 
-## Personal projects and experiments
+                             /\
+                            /  \
+                           |    |
+                         --:'''':--
+                           :'_' :
+                           _:"":\___
+            ' '      ____.' :::     '._
+           . *=====<<=)           \    :
+            .  '      '-'-'\_      /'._.'
+                             \====:_ ""
+                            .'     \\
+                           :       :
+                          /   :    \
+                         :   .      '.
+         ,. _        snd :  : :      :
+      '-'    ).          :__:-:__.;--'
+    (        '  )        '-'   '-'
+ ( -   .00.   - _
+(    .'  _ )     )
+'-  ()_.\,\,   -
 
-- [R3F + Rapier + Node] - Multiplayer game mechanics with server side physics [Repo](https://github.com/oslavdev/multiplayer-game-ball) (...in progress, long forgotten)
 
-- [THREE.JS + Cannon] A helicopter controller with physics [Repo](https://github.com/oslavdev/helicopter-with-physics) | [Live Demo](https://helicopter-with-physics.vercel.app/)
 
-- [THREE.JS] A third person controller with modern camera. [Repo](https://github.com/oslavdev/webgl-third-person-controller) | [Live Demo](https://webgl-third-person-controller.vercel.app/) | [Article](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92)
+## Abandonded Personal projects and unfinished experiments
 
-- [THREE.JS] A simple spinning galaxy made with particle sytem with a mesmorizing piano nocurne by Chopin. [Repo](https://github.com/oslavdev/flying-through-space) | [Live Demo](https://flying-through-space.vercel.app/) 
+- [R3F + Rapier + Node] - Multiplayer game mechanics with server side physics [Repo](https://github.com/oslavdev/multiplayer-game-ball) (maybe one day I will finish)
+
+- [THREE.JS + Cannon] A helicopter controller with physics [Repo](https://github.com/oslavdev/helicopter-with-physics) | [Live Demo](https://helicopter-with-physics.vercel.app/) (works, but no game mechanics yet)
+
+- [THREE.JS] A third person controller with modern camera. [Repo](https://github.com/oslavdev/webgl-third-person-controller) | [Live Demo](https://webgl-third-person-controller.vercel.app/) | [Article](https://oslavdev.medium.com/third-person-controller-in-three-js-b643bec50f92) (kinda works, no physics though)
+
+- [THREE.JS] A simple spinning galaxy made with particle sytem with a mesmorizing piano nocurne by Chopin. [Repo](https://github.com/oslavdev/flying-through-space) | [Live Demo](https://flying-through-space.vercel.app/) (just fooling around)
 
 
 
@@ -28,7 +54,7 @@ Masterfully avoiding working on :
 
 **Memo The Quantum Terminals**
 
-Procedurally generated 2D memory puzzle game. (Currently rebuilding, or not.)
+Procedurally generated memory puzzle game. (Started rebuilding and abandoned)
 
 <div style='width:100%; display:inline-block;'>
 <div style="width:250px">
@@ -42,7 +68,7 @@ Procedurally generated 2D memory puzzle game. (Currently rebuilding, or not.)
 |
 [Server](https://github.com/oslavdev/memo-the-quantum-terminals-server)
 
-🔮 **Shardworld** (2D Story rich platformer) with Unity Engine (paused, or rather cancelled)
+🔮 **Shardworld** (2D Story rich platformer) with Unity Engine 
 
 ⚗️ **Emerald Shop** (2D Story driven Alchemy Simulator) with Unity Engine (paused, or rather cancelled, I am just burned out, bro)
 
@@ -52,7 +78,7 @@ Procedurally generated 2D memory puzzle game. (Currently rebuilding, or not.)
 </div>
 </div>
 
-⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) (paused, or, well you got it)
+⚙️ **Neuronopolis** (3D Multiplayer hacking competitive game) (Going to finish sometime)
 
 ### 📚 Publications
 
